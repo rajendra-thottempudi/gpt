@@ -5,9 +5,12 @@
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
-    background-color: #1b1b1d;
-  }
+    background-color: #ffffff;
+    color: #000000; /* Add this line to change the text color to white */
+}
+
   
+
   .avatar {
     width: 40px;
     height: 40px;
